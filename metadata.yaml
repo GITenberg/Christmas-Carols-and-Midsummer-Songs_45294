@@ -1,0 +1,29 @@
+_repo: Christmas-Carols-and-Midsummer-Songs_45294
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 45294-h/images/coverm.jpg
+creator:
+  author:
+    agent_name: Various
+    alias: Verschillende
+    gutenberg_agent_id: '116'
+    url: http://www.gutenberg.org/2009/agents/116
+description: ''
+gutenberg_issued: '2014-04-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '45294'
+  lccn: '16003059'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Christmas poetry'
+- !lcsh 'Children''s poetry'
+- !lcc 'PZ'
+- !lcc 'PS'
+- !lcsh 'American poetry'
+title: Christmas Carols and Midsummer Songs
+url: http://www.gutenberg.org/ebooks/45294
